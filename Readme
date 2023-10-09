@@ -1,0 +1,11 @@
+Install required within the project terminal/ universally
+Run command
+ pip install python-telegram-bot //I have already made the installation but
+ please reinstall incase you have any issues with the telegram imports in main.py
+
+
+In the Main.py, please provide your own token from telegram in order to re-use this code.
+
+The fields to edit are.
+TOKEN: Final = 'Please replace with your own token'
+BOT_USERNAME: Final = '@YouBotName'
