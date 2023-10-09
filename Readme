@@ -1,3 +1,5 @@
+Note: This is a python 3 project
+I used Pycharm IDE
 Install required within the project terminal/ universally
 Run command
  pip install python-telegram-bot //I have already made the installation but
